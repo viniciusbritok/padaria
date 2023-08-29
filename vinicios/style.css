@@ -1,0 +1,37 @@
+header {
+    background-color: #424E61;
+    color: white;
+}.imagem-cabecalho{
+    width: 10;
+    height:20;
+}.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+.estudante-imagem{
+  width: 20%;
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 24px 0;
+}
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 10px; 
+    padding: 30px;
+    
+
+
+}
